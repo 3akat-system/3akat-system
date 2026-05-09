@@ -15,15 +15,17 @@ I design AI-driven infrastructure — from Telegram bots and content pipelines t
 
 ### Stack
 
-`Node.js` `Express` `PostgreSQL` `Telegram Bot API` `Claude Code` `Obsidian`
-`Tailwind CSS` `GSAP` `PM2` `Nginx` `n8n` `Docker` `Linux VPS`
+`Node.js` `Express` `PostgreSQL` `SQLite` `Telegram Bot API` `Claude Code` `Obsidian`
+`Tailwind CSS` `GSAP` `PM2` `Nginx` `n8n` `Docker` `Linux VPS` `OpenAI API`
 
-### Featured
+### Projects
 
-**[NEXUS](https://github.com/3akat-system/nexus-starter)** — Personal AI Operating System
-> Obsidian vault + Claude Code + 15 autonomous skills.
-> WAL context protection, knowledge base, multi-agent workflows.
-> Built for solo founders who want an AI that remembers everything and ships code.
+| Repo | What it does |
+|------|-------------|
+| **[NEXUS](https://github.com/3akat-system/nexus-starter)** | Personal AI Operating System — Obsidian + Claude Code + 15 skills |
+| **[VPN Landing](https://github.com/3akat-system/vpn-landing)** | Production landing page — Tailwind CSS + GSAP + Vanta.js |
+| **[Telegram Bot Starter](https://github.com/3akat-system/telegram-bot-starter)** | Bot template — Telegraf + SQLite + PM2, ready to deploy |
+| **[GPT Tools](https://github.com/3akat-system/gpt-tools)** | CLI for OpenAI API — Whisper, DALL-E, text extraction |
 
 ### Numbers
 
